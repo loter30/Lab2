@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string name="my_text">Hello People!</string>
+    <string name="my_text1">Hi Everyone!</string>
+    <string name="my_text2">Hey!</string>
+    <string name="my_text3">How are you?</string>
+    <string name="my_text4">What\'s your name?</string>
+    <string name="my_text5">This is android.</string>
+</resources>
